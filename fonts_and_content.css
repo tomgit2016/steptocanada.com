@@ -1,0 +1,17 @@
+/* fonts and styles - if you don't want to change the layout, just edit this style sheet */ 
+
+body {
+font-family: Arial, Helvetica, sans-serif;
+color: #444;
+font: normal 72.5% Tahoma,sans-serif;
+}
+
+p 
+{
+	margin-top: 0;
+	padding-top: 0;
+}
+
+h1 {
+	font: normal 1.8em Tahoma,sans-serif;	
+}
